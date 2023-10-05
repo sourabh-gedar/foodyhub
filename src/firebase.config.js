@@ -4,7 +4,7 @@ import { getStorage } from 'firebase/storage'
 
 const firebaseConfig = {
     apiKey: "AIzaSyBanuGyOJ7ezqf0HXqE6v__3msRnEYOU7U",
-    authDomain: "restaurant-app-bceb0.firebaseapp.com",
+    authDomain: "https://foodyhub.vercel.app/",
     databaseURL: "https://restaurant-app-bceb0-default-rtdb.firebaseio.com",
     projectId: "restaurant-app-bceb0",
     storageBucket: "restaurant-app-bceb0.appspot.com",
