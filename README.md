@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Firebase-5f6368?style=for-the-badge&logo=firebase&logoColor=FFCC30" alt="Firebase" />
 </p>
 
-<h3 align="center"><a href="https://restaurant-app-bceb0.web.app/"><strong>« Try the demo here »</strong></a></h3>
+<h3 align="center"><a href="https://foodyhub.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
 
 <p align="center"> 
     <br />&#10023;
